@@ -1,5 +1,3 @@
-# Base de Datos - Sistema de Evaluación de Docente
-
 # Sistema de Evaluación Docente y Gestión Académica
 
 📅 Julio 2023
